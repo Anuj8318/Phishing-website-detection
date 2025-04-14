@@ -31,8 +31,8 @@ The model was trained on a dataset containing the following features:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/phishing-url-detector.git
-cd phishing-url-detector
+git clone https://github.com/yourusername/phishing-website-detection.git
+cd phishing-website-detection
 ```
 Create and activate a virtual environment:
 
