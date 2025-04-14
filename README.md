@@ -67,12 +67,12 @@ Access the application in your browser at http://localhost:8501
 ## Project Structure
 
 phishing-url-detector/
-├── app.py                # Streamlit web application
-├── train_model.py        # Model training script
-├── requirements.txt      # Python dependencies
-├── phishing_model.joblib # Trained model (generated after training)
-├── README.md             # This file
-└── data/                 # Dataset directory (not included in repo)
+  ├── app.py                # Streamlit web application
+  ├── train_model.py        # Model training script
+  ├── requirements.txt      # Python dependencies
+  ├── phishing_model.joblib # Trained model (generated after training)
+  ├── README.md             # This file
+  └── data/                 # Dataset directory (not included in repo)
 ## Methodology
 -    URL Collection: Gather URLs from various sources
 
