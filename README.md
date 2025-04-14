@@ -1,4 +1,7 @@
 # Phishing-website-detection
+## 📸 UI Preview
+![phishing website detection](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdsaHQ0dHFicnlpZHFwaTA2d3hkNmgyZGpxbGxiMHVjN29yNWg2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9WFjPrJbcNm2t69Bd/giphy.gif)
+
 ## Overview
 This project implements a machine learning-based phishing URL detection system using XGBoost with feature optimization. The system analyzes URL characteristics to identify potential phishing attempts with high accuracy.
 
